@@ -1,3 +1,5 @@
+![brand2](https://github.com/CLizardi/handyman_webpage/assets/52866379/f4a4b9cd-dd9e-490b-b1d6-5f3fddbfedce)
+
 # Handyman Helper LLC - Business Website
 Welcome to the repository for the Handyman Helper LLC business website. This project serves as a showcase for the website I created for Handyman Helper LLC, a handyman services company. In this README, you'll find an overview of the project, the tools and technologies used, lessons learned, and a conclusion.
 
